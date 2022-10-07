@@ -1,31 +1,39 @@
   body {
-   padding-left: 11em;
-   font-family: Georgia, "Times New Roman",
-          Times, serif;
-		  color: purple;
-    background-color: #d8da3d }
+   padding-left: 20em;
+   padding-right: 20em;
+   font-family:Corbel;
+   color: #495e4b;
+      background-color: #E3DDDF;
+   background-image:linear-gradient(to top, #968389, #E3DDDF);
+      background-size: 1920px 1080px;}
 	 ul.navbar {
     list-style-type: none;
-    padding: 0;
+    padding-left: 2.5em;
     margin: 0;
+    font-size: 20px;
 	position: absolute;
-    top: 2em;
+    top: 5em;
     left: 1em;
     width: 10em }
 	h1 {
-    font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif }
+    font-family:Corbel;
+    font-weight: bold;
+  }
 		ul.navbar li {
     background: white;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid black }
+    border-right: 1em solid;}
+    #myHeader{
+      text-align: center;
+      font-size: 50px;
+    }
   ul.navbar a {
     text-decoration: none }
   a:link {
     color: blue }
   a:visited {
-    color: purple }
+    color: #495e4b }
 	address {
     margin-top: 1em;
     padding-top: 1em;
