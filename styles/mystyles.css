@@ -41,3 +41,6 @@
 	p {
 	font-size: 20px;
 }
+#wrappedimage {
+	float: right;
+}
