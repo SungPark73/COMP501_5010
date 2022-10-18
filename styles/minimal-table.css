@@ -5,7 +5,8 @@ padding-right: 20em;
 font-family:Corbel;
    color: #495e4b;
    background-color: #E3DDDF;
-   background-image:linear-gradient(to top, #968389, #E3DDDF);
+   background-image:linear-gradient(to bottom, #968389,#E3DDDF, #E3DDDF);
+   background-repeat: no-repeat;
    background-size: 1920px 1080px;}
 	 ul.navbar {
     list-style-type: none;
